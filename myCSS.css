@@ -86,3 +86,10 @@ font-family: "Brush Script MT", cursive;
 	font-weight: 500;
 	line-height: 26.4px;
 }
+.mySlides
+{
+	display: block;
+    margin: auto;
+    width: 40%;
+
+}
