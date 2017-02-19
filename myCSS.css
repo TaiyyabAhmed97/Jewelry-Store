@@ -93,3 +93,23 @@ font-family: "Brush Script MT", cursive;
     width: 40%;
 
 }
+div#middle-wrapper {
+    width: 100%;
+    float: left;
+    background: url(http:www.yasini.com/Content/images/middle-bg.jpg);
+    border-top: 1px solid #202020;
+    padding: 0px;
+    margin: 0px;
+}
+div#middle-wrapper ul.categoty li {
+    width: 185px;
+    height: 112px;
+    float: left;
+    background: url(http://www.yasini.com/Content/images/cat-bg.jpg) no-repeat left top;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    margin: 14px 18px 15px 0px;
+    border-bottom: 1px solid #3b7e7c;
+    list-style: none;
+}
